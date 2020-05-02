@@ -62,6 +62,7 @@
 <link rel="stylesheet" href="./file/flaticon.css">
 <link rel="stylesheet" href="./file/aos.css">
 <link rel="stylesheet" href="./file/style(1).css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0">
@@ -140,7 +141,7 @@
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-autorenew"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-flag"></span></span>
 </div>
 <div>
 <h3>DMC</h3>
@@ -153,7 +154,7 @@ Easily From Anywhere Throughout the Globe Quickly</p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up" data-aos-delay="100">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-plane"></span></span>
 </div>
 <div>
 <h3>Travel Company</h3>
@@ -166,7 +167,7 @@ Easily From Anywhere Throughout the Globe Quickly</p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up" data-aos-delay="200">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-power"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-building"></span></span>
 </div>
 <div>
 <h3>Hoteliers</h3>
@@ -268,9 +269,9 @@ Secured Platform .</p>
 <img src="./img/the-travel-square-business-b2b-platfrom.png" alt="Image" class="img-fluid" height="380" width="380">
 </figure>
 <div class="social">
-<a href=""><span class="icon-facebook"></span></a>
-<a href=""><span class="icon-twitter"></span></a>
-<a href=""><span class="icon-instagram"></span></a>
+<a href=""><span class="fa fa-facebook"></span></a>
+<a href=""><span class="fa fa-twitter"></span></a>
+<a href=""><span class="fa fa-instagram"></span></a>
 </div>
 </div>
 <h2 class="text-black h1">The Travel Square BUSINESS</h2>
@@ -286,9 +287,9 @@ Secured Platform .</p>
 <img src="./img/the-travel-square-customer-customized-itinerary-b2c-platfrom.png" alt="Image" class="img-fluid" height="380" width="380">
 </figure>
 <div class="social">
-<a href=""><span class="icon-facebook"></span></a>
-<a href=""><span class="icon-twitter"></span></a>
-<a href=""><span class="icon-instagram"></span></a>
+<a href=""><span class="fa fa-facebook"></span></a>
+<a href=""><span class="fa fa-twitter"></span></a>
+<a href=""><span class="fa fa-instagram"></span></a>
 </div>
 </div>
 <h2 class="text-black h1">THE TRAVEL SQUARE</h2>
@@ -304,9 +305,9 @@ Secured Platform .</p>
 <img src="./img/the-travel-square-customer-customized-itinerary-b2c-platfrom.png" alt="Image" class="img-fluid" height="380" width="380">
 </figure>
 <div class="social">
-<a href=""><span class="icon-facebook"></span></a>
-<a href=""><span class="icon-twitter"></span></a>
-<a href=""><span class="icon-instagram"></span></a>
+<a href=""><span class="fa fa-facebook"></span></a>
+<a href=""><span class="fa fa-twitter"></span></a>
+<a href=""><span class="fa fa-instagram"></span></a>
 </div>
 </div>
 <h2 class="text-black h1">THE TRAVEL SQUARE</h2>
@@ -326,10 +327,10 @@ Secured Platform .</p>
 <div class="row mb-5">
 <div class="col-12">
 <p class="mb-0">
-<a href="" class="https://www.facebook.com/travpaywallet/"><span class="icon-facebook"></span></a>
-<a href="" class="https://www.twitter.com/travpaywallet/"><span class="icon-twitter"></span></a>
-<a href="" class="https://www.instagram.com/travpaywallet/"><span class="icon-instagram"></span></a>
-<a href="" class="https://www.linkedin.com/travpaywallet/"><span class="icon-linkedin"></span></a>
+<a href="" class="https://www.facebook.com/travpaywallet/"><span class="fa fa-facebook"></span></a>
+<a href="" class="https://www.twitter.com/travpaywallet/"><span class="fa fa-twitter"></span></a>
+<a href="" class="https://www.instagram.com/travpaywallet/"><span class="fa fa-instagram"></span></a>
+<a href="" class="https://www.linkedin.com/travpaywallet/"><span class="fa fa-linkedin"></span></a>
 </p>
 </div>
 </div>

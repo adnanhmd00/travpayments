@@ -59,6 +59,7 @@
 <link rel="stylesheet" href="./file/flaticon.css">
 <link rel="stylesheet" href="./file/aos.css">
 <link rel="stylesheet" href="./file/style(1).css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0">
@@ -137,7 +138,7 @@ In Addition Sell Your <b>Hotel Paid Services For Free</b></p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-autorenew"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-industry"></span></span>
 </div>
 <div>
 <h3>Smart CRM Dashboard</h3>
@@ -149,7 +150,7 @@ In Addition Sell Your <b>Hotel Paid Services For Free</b></p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up" data-aos-delay="100">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-store_mall_directory"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-briefcase"></span></span>
 </div>
 <div>
 <h3>Both B2B & B2C Sales Channels</h3>
@@ -160,7 +161,7 @@ In Addition Sell Your <b>Hotel Paid Services For Free</b></p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up" data-aos-delay="200">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-shopping_basket"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-credit-card"></span></span>
 </div>
 <div>
 <h3>TravPAY - Real Time Payments</h3>
@@ -171,7 +172,7 @@ In Addition Sell Your <b>Hotel Paid Services For Free</b></p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-columns"></span></span>
 </div>
 <div>
 <h3>Terminal - Real Time Monitoring</h3>
@@ -182,7 +183,7 @@ In Addition Sell Your <b>Hotel Paid Services For Free</b></p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up" data-aos-delay="100">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-bookmark"></span></span>
 </div>
 <div>
 <h3>Inventory & Service Manager</h3>
@@ -195,7 +196,7 @@ In Addition Sell Your <b>Hotel Paid Services For Free</b></p>
 <div class="col-md-6 col-lg-4 mb-4 mb-lg-4 aos-init" data-aos="fade-up" data-aos-delay="200">
 <div class="unit-4 d-block">
 <div class="unit-4-icon mb-3">
-<span class="icon-wrap"><span class="text-primary icon-power"></span></span>
+<span class="icon-wrap"><span class="text-primary fa fa-pie-chart"></span></span>
 </div>
 <div>
 <h3>Competetion Monitoring Solution</h3>
@@ -297,9 +298,9 @@ Offered</p>
 <img src="./img/the-travel-square-business-b2b-platfrom.png" alt="Image" class="img-fluid" height="380" width="380">
 </figure>
 <div class="social">
-<a href=""><span class="icon-facebook"></span></a>
-<a href=""><span class="icon-twitter"></span></a>
-<a href=""><span class="icon-instagram"></span></a>
+<a href=""><span class="fa fa-facebook"></span></a>
+<a href=""><span class="fa fa-twitter"></span></a>
+<a href=""><span class="fa fa-instagram"></span></a>
 </div>
 </div>
 <h2 class="text-black h1">The Travel Square BUSINESS</h2>
@@ -316,9 +317,9 @@ Directly From DMC's . It is One of The India's Largest B2B Travel Platform With 
 <img src="./img/the-travel-square-customer-customized-itinerary-b2c-platfrom.png" alt="Image" class="img-fluid" height="380" width="380">
 </figure>
 <div class="social">
-<a href=""><span class="icon-facebook"></span></a>
-<a href=""><span class="icon-twitter"></span></a>
-<a href=""><span class="icon-instagram"></span></a>
+<a href=""><span class="fa fa-facebook"></span></a>
+<a href=""><span class="fa fa-twitter"></span></a>
+<a href=""><span class="fa fa-instagram"></span></a>
 </div>
 </div>
 <h2 class="text-black h1">THE TRAVEL SQUARE</h2>
@@ -339,11 +340,11 @@ Directly From DMC's . It is One of The India's Largest B2B Travel Platform With 
 <div class="row mb-5">
 <div class="col-12">
 <p class="mb-0">
-<a href="" class="p-3"><span class="icon-facebook"></span></a>
-<a href="" class="p-3"><span class="icon-twitter"></span></a>
-<a href="" class="p-3"><span class="icon-instagram"></span></a>
-<a href="" class="p-3"><span class="icon-linkedin"></span></a>
-<a href="" class="p-3"><span class="icon-pinterest"></span></a>
+<a href="" class="p-3"><span class="fa fa-facebook"></span></a>
+<a href="" class="p-3"><span class="fa fa-twitter"></span></a>
+<a href="" class="p-3"><span class="fa fa-instagram"></span></a>
+<a href="" class="p-3"><span class="fa fa-linkedin"></span></a>
+<a href="" class="p-3"><span class="fa fa-pinterest"></span></a>
 </p>
 </div>
 </div>
